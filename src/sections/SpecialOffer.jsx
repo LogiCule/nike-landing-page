@@ -34,6 +34,7 @@ const SpecialOffer = () => {
             backgroundColor="bg-white"
             borderColor="border-slate-gray"
             textColor="text-slate-gray"
+            ringColor="ring-slate-400"
           />
         </div>
       </div>
